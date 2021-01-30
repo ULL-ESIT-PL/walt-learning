@@ -7,7 +7,7 @@
     npm i walt-loader
     npm install --save walt-compiler
     ```
-3. Walt is written unsing [nearley](https://nearley.js.org/)
+3. Walt is written using [nearley](https://nearley.js.org/)
 4. Worked with bot v12 and v14 of node.js
 
 # Create a Walt Project From Scratch in 5 Minutes
