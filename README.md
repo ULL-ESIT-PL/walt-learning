@@ -1,5 +1,12 @@
-Original at [Create a Walt Project From Scratch in 5 Minutes](https://github.com/ballercat/walt/wiki/Walt-In-5-Minutes)
+# Observations
 
+1. Original at [Create a Walt Project From Scratch in 5 Minutes](https://github.com/ballercat/walt/wiki/Walt-In-5-Minutes)
+2. Everything went according to the tutorial but have to install first:
+
+    ```
+    npm i walt-loader
+    npm install --save walt-compiler
+    ```
 
 # Create a Walt Project From Scratch in 5 Minutes
 Walt's ultimate goal is to make WebAssembly accessible to regular JavaScript programmers and to do so in a sane and simple fashion. There are only a few prerequisites and most of the necessary tools you most likely have already installed.
