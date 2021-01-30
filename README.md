@@ -7,6 +7,7 @@
     npm i walt-loader
     npm install --save walt-compiler
     ```
+3. Walt is written unsin nearley
 
 # Create a Walt Project From Scratch in 5 Minutes
 Walt's ultimate goal is to make WebAssembly accessible to regular JavaScript programmers and to do so in a sane and simple fashion. There are only a few prerequisites and most of the necessary tools you most likely have already installed.
