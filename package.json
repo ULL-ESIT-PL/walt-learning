@@ -1,0 +1,20 @@
+{
+  "name": "walt-learning",
+  "version": "1.0.0",
+  "description": "[Create a Walt Project From Scratch in 5 Minutes](https://github.com/ballercat/walt/wiki/Walt-In-5-Minutes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.4.0"
+  },
+  "dependencies": {
+    "walt-compiler": "^0.21.0",
+    "walt-loader": "^1.1.12"
+  }
+}
