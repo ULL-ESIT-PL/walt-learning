@@ -4,7 +4,8 @@
   "description": "[Create a Walt Project From Scratch in 5 Minutes](https://github.com/ballercat/walt/wiki/Walt-In-5-Minutes)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "open index.html",
+    "start": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
